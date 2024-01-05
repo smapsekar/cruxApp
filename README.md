@@ -37,4 +37,38 @@ Future Enhancements:
 (List potential features or improvements planned for future iterations of the project.)
 I'm ready to assist with further refinements as you provide more specifics about the project's implementation and features.
 
+## Installation instruction
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Comming soon
+
+### `npm run build`
+
+This buillds the app
+
+There is few other configuration you need to follow 
+create a .env file in you project root folder and then 
+
+CHROME_UX_REPORT_API_KEY="GOOGLE_API_KEY"
+
+port is optional
+
+PORT=3007
+
+Post that start your application 
+
+#### Note:This was just a in compelte project not to be used in production
 
