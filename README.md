@@ -10,17 +10,9 @@ Multi-URL Support: Enables users to enter multiple URLs and view their respectiv
 Data Summarization: Calculates and displays averages and sums of relevant metrics to provide insights into overall user experience trends.
 Target Audience:
 
-Developers, data analysts, and website owners who want to track and optimize user experience across their web properties.
-Installation and Usage:
-
-(Provide detailed instructions on how to install and run the application, including any required dependencies or setup steps.)
-
 Technologies Used:
 
-(List the programming languages, libraries, frameworks, and data sources used in the project.)
-Contributing:
-
-(Provide guidelines for contributing code or documentation, if applicable.)
+NodeJS, Javascript 
 
 License:
 
@@ -76,4 +68,5 @@ Post that start your application
 The Resources on how to get the API Keys
 
 https://developer.chrome.com/docs/crux/dashboard
+
 https://developer.chrome.com/docs/crux/api
