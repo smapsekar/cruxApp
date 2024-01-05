@@ -71,3 +71,9 @@ Post that start your application
 
 #### Note:This was just a in compelte project not to be used in production
 
+#### The Google API 
+
+The Resources on how to get the API Keys
+
+https://developer.chrome.com/docs/crux/dashboard
+https://developer.chrome.com/docs/crux/api
