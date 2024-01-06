@@ -16,7 +16,6 @@ NodeJS, Javascript
 
 License:
 
-(Specify the license under which the project is released.)
 
 Additional Information:
 
@@ -26,8 +25,6 @@ Usage Examples: (Provide illustrative examples of how to use the dashboard for d
 Known Limitations or Issues: (Acknowledge any current limitations or potential issues that users should be aware of.)
 Future Enhancements:
 
-(List potential features or improvements planned for future iterations of the project.)
-I'm ready to assist with further refinements as you provide more specifics about the project's implementation and features.
 
 ## Installation instruction
 
